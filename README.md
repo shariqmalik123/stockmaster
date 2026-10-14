@@ -25,6 +25,6 @@ Manages products, suppliers, inventory, and orders
 
 ## Prerequisites
 
-• Node.js (v18 or higher)
-• PostgreSQL (v14 or higher)
-• Docker (Optional, for containerized setup)
+- Node.js (v18 or higher)
+- PostgreSQL (v14 or higher)
+- Docker (Optional, for containerized setup)
