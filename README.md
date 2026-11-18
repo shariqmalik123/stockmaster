@@ -1,3 +1,5 @@
+smart stock is a smart inventory and Order management system
+ - Contributor: Muhammad Shariq
 # SmartStock
 
 SmartStock is a next-generation, automated inventory and order management system designed to streamline supply chains, prevent stockouts, and optimize order fulfillment in real-time.
